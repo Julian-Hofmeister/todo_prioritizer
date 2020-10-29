@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221800903917",
+    "firebase_url": "https://todoprioritizer.firebaseio.com",
+    "project_id": "todoprioritizer",
+    "storage_bucket": "todoprioritizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221800903917:android:20b6f0463d194bf22a88e4",
+        "android_client_info": {
+          "package_name": "com.ju.todo_prioritizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221800903917-i0h8alui2dkbs3trq532p4jqi81eb3fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8IUnWCg5Zi-LCubr1BM3Rn8qQF5xYc_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221800903917-i0h8alui2dkbs3trq532p4jqi81eb3fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
